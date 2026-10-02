@@ -1,0 +1,7 @@
+id = "nordish-cocoa"
+name = "NordishCocoa"
+description = "A beautiful, restful extension of the popular Nord theme."
+version = "1.0.0"
+schema_version = 1
+authors = ["Greg Pasquariello <greg@pasq.net>"]
+repository = "https://github.com/gpasq/ZedThemeNordishCocoa"

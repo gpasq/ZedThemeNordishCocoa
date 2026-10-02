@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Editors and IDEs
+.idea/
+.vscode/
+.zed/
+*.swp
+*~
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Zed extension build output
+target/
+grammars/
+*.wasm
+
+# Packaged archives
+*.tar.gz
+*.zip
