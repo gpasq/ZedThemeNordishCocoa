@@ -1,6 +1,5 @@
 # NordishCocoa for Zed
 
-<img width="2672" height="1458" alt="Zed 2026-10-02 09 03 19" src="https://github.com/user-attachments/assets/4673c6c4-cd47-4e44-9154-f45c4eebbb49" />
 <img width="2672" height="1458" alt="Zed 2026-10-02 11 49 19" src="https://github.com/user-attachments/assets/a2bc96db-164c-435e-b4a7-34b24ba750ae" />
 
 
