@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "nordish-cocoa" Zed extension will be documented in this file.
+All notable changes to the "nordish-cocoa-theme" Zed extension will be documented in this file.
 
 ## [1.0.0]
 

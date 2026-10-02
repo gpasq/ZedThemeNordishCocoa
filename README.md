@@ -41,8 +41,8 @@ To make it the default, add this to your Zed `settings.json`:
 
 1. Bump `version` in `extension.toml` and push to GitHub.
 2. In a fork of [zed-industries/extensions](https://github.com/zed-industries/extensions), add or update this
-   repository as a submodule under `extensions/nordish-cocoa`, and set the matching `version` for
-   `[nordish-cocoa]` in `extensions.toml`.
+   repository as a submodule under `extensions/nordish-cocoa-theme`, and set the matching `version` for
+   `[nordish-cocoa-theme]` in `extensions.toml`.
 3. Run `pnpm sort-extensions` and open a pull request.
 
 ## License
