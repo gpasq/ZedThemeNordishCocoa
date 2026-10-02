@@ -229,7 +229,7 @@
         "accents": ["#8fbcbb", "#88c0d0", "#81a1c1", "#5e81ac"],
 
         "background.appearance": "blurred",
-        "background": "#383838e6",
+        "background": "#383838cc",
         "surface.background": "#383838",
         "elevated_surface.background": "#383838",
         "panel.background": "#00000000",
