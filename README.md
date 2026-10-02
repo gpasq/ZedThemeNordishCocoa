@@ -1,5 +1,8 @@
 # NordishCocoa for Zed
 
+<img width="2672" height="1458" alt="Zed 2026-10-02 09 03 19" src="https://github.com/user-attachments/assets/4673c6c4-cd47-4e44-9154-f45c4eebbb49" />
+
+
 NordishCocoa takes the basic Nord editing theme and wraps it in a comfy, earthy, cocoa blanket. The result
 is a theme that is as easy on the mind as it is easy on the eyes. As beautiful and restful as it is useful.
 
