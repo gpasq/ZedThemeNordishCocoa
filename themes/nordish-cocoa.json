@@ -229,8 +229,8 @@
         "accents": ["#8fbcbb", "#88c0d0", "#81a1c1", "#5e81ac"],
 
         "background.appearance": "blurred",
-        "background": "#383838cc",
-        "surface.background": "#383838",
+        "background": "#383838eb",
+        "surface.background": "#383838cc",
         "elevated_surface.background": "#383838",
         "panel.background": "#00000000",
         "panel.focused_border": "#88c0d0",
@@ -290,7 +290,7 @@
         "scrollbar.track.border": "#00000000",
 
         "editor.foreground": "#f8fafc",
-        "editor.background": "#2e2e2e80",
+        "editor.background": "#2e2e2e00",
         "editor.gutter.background": "#00000000",
         "editor.subheader.background": "#38383880",
         "editor.active_line.background": "#60606080",
@@ -311,7 +311,6 @@
         "terminal.foreground": "#f8fafc",
         "terminal.bright_foreground": "#f8fafc",
         "terminal.dim_foreground": "#f8fafcd9",
-        "terminal.ansi.background": "#383838",
         "terminal.ansi.black": "#606060",
         "terminal.ansi.red": "#bf616a",
         "terminal.ansi.green": "#a3be8c",
