@@ -20,7 +20,7 @@
         "pane.focused_border": null,
         "pane_group.border": "#50505080",
 
-        "border": "#505050",
+        "border": "#666666",
         "border.variant": "#50505080",
         "border.focused": "#88c0d0",
         "border.selected": "#88c0d0",
@@ -240,7 +240,7 @@
         "pane.focused_border": null,
         "pane_group.border": "#50505080",
 
-        "border": "#505050",
+        "border": "#666666",
         "border.variant": "#50505080",
         "border.focused": "#88c0d0",
         "border.selected": "#88c0d0",
@@ -274,7 +274,7 @@
         "title_bar.background": "#383838",
         "title_bar.inactive_background": "#383838",
         "status_bar.background": "#60606066",
-        "toolbar.background": "#2e2e2e66",
+        "toolbar.background": "#2e2e2e00",
         "tab_bar.background": "#00000000",
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#60606099",
